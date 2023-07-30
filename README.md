@@ -4,7 +4,7 @@ Hola!! 👋 Soy Alicia Cardinali
 
 🌱 A que me dedico actualmente? a capacitarme y a desarrollar proyectos que me permitar aumentar mi experiencia y aprendizaje como programadora.
 
-👯 Cual es mi enfoque? la creación de soluciones que impacten positivamente en la vida de las personas. Em el tiempo el desarrollo de codigo me he interesado en experimentar en todas las etapas del ciclo de vida del desarrollo, lo que me permite aportar una visión integral a cada proyecto en el que me involucro.
+👯 Cual es mi enfoque? la creación de soluciones que impacten positivamente en la vida de las personas. En el tiempo el desarrollo de código me he interesado en experimentar en todas las etapas del ciclo de vida del desarrollo, lo que me permite aportar una visión integral a cada proyecto en el que me involucro.
 
 💬 Habilidades técnicas:
 
